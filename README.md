@@ -1,2 +1,2 @@
-# CMPS-130
+# CMPS 130 (Computational Models) Assignments
 CMPS 130 (Computational Models) Assignments
